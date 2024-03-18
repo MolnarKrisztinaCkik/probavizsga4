@@ -1,2 +1,4 @@
 A: Kriszti
 B: Zsófi
+
+A: valami
